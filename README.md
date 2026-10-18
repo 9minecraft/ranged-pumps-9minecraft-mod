@@ -8,6 +8,13 @@ An unofficial rebuild of **RefinedMods**'s original work, kept running on curren
 
 Loader: Fabric, NeoForge.
 
+## Versions
+
+| Minecraft | Loader |
+|---|---|
+| 26.3 | NeoForge |
+| 26.2 | Fabric, NeoForge |
+
 ## Source
 
 The licence allows it, so the port source is available on request: ask at **9minecraft.net@gmail.com** and it will be sent over.
